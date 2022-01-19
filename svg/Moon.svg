@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44.2813193px" height="44.3017097px" viewBox="0 0 44.2813193 44.3017097" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Moon</title>
+    <defs>
+        <linearGradient x1="50.9787508%" y1="2.56170886%" x2="50.9787508%" y2="102.690506%" id="linearGradient-1">
+            <stop stop-color="#EAF6FE" offset="0%"></stop>
+            <stop stop-color="#D9ECFB" offset="52%"></stop>
+            <stop stop-color="#B6D9F4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-15.4796767%" y1="-18.4058991%" x2="63.3299595%" y2="63.399129%" id="linearGradient-2">
+            <stop stop-color="#EAF6FE" offset="0%"></stop>
+            <stop stop-color="#D9ECFB" offset="52%"></stop>
+            <stop stop-color="#B6D9F4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="54.6200608%" y1="-219.717066%" x2="54.6200608%" y2="269.835329%" id="linearGradient-3">
+            <stop stop-color="#EAF6FE" offset="0%"></stop>
+            <stop stop-color="#D9ECFB" offset="52%"></stop>
+            <stop stop-color="#B6D9F4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="55.0151976%" y1="-372.112275%" x2="55.0151976%" y2="117.44012%" id="linearGradient-4">
+            <stop stop-color="#EAF6FE" offset="0%"></stop>
+            <stop stop-color="#D9ECFB" offset="52%"></stop>
+            <stop stop-color="#B6D9F4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Moon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <ellipse id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" transform="translate(22.140660, 22.150855) rotate(-43.470000) translate(-22.140660, -22.150855) " cx="22.1406597" cy="22.1508549" rx="15.53" ry="15.8"></ellipse>
+        <g id="Group" transform="translate(9.123138, 9.614444)" fill-rule="nonzero">
+            <path d="M24.31,1.88 C23.6557881,1.1928274 22.9431082,0.563795359 22.18,0 C26.3728064,6.29529755 25.4455275,14.6913859 19.98,19.92 C18.2380273,21.5731809 16.1311319,22.7927822 13.83,23.48 C15.2129151,21.367283 14.867366,18.5646918 13.0126885,16.851158 C11.158011,15.1376241 8.336882,15.0145262 6.34,16.56 C5.36575234,17.3368811 4.71669689,18.4495476 4.52,19.68 C4.37139388,20.5462969 3.79357761,21.2781076 2.9853814,21.6236115 C2.17718518,21.9691153 1.2489171,21.8811557 0.52,21.39 L5.68434189e-14,21.02 C0.520199506,21.8161597 1.11270805,22.5626536 1.77,23.25 C5.5873828,27.2763833 11.2628399,28.9603654 16.6584816,27.6676066 C22.0541232,26.3748477 26.350223,22.3017486 27.9284817,16.9826064 C29.5067404,11.6634642 28.127383,5.90638317 24.31,1.88 L24.31,1.88 Z" id="Path" fill="url(#linearGradient-2)"></path>
+            <ellipse id="Oval" fill="url(#linearGradient-3)" transform="translate(7.762048, 6.504841) rotate(-43.470000) translate(-7.762048, -6.504841) " cx="7.76204767" cy="6.50484058" rx="3.29" ry="3.34"></ellipse>
+            <ellipse id="Oval" fill="url(#linearGradient-4)" transform="translate(19.538432, 9.370237) rotate(-43.470000) translate(-19.538432, -9.370237) " cx="19.5384323" cy="9.37023721" rx="3.29" ry="3.34"></ellipse>
+        </g>
+    </g>
+</svg>
